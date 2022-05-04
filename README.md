@@ -13,8 +13,6 @@ Someone is said to have a stake in a venture when they contribute some assets in
 
 In the cryptocurrency world this is understood as giving users some kind of right or reward for as long as they don’t transfer some tokens in their possession. A staking mechanism usually encourages token holding against token trading, which in turn is expected to drive up the token valuation.
 
-At [TechHQ](http://www.techhq.io) we believe that knowledge exists to be shared, and in this article we are going to show how to implement a staking mechanism in solidity. The whole project including development environment and tests is available from [our public github](https://github.com/HQ20/StakingToken).
-
 To build this staking mechanism we will need:
 
 
